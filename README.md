@@ -7,3 +7,8 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=marinavelosom&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=marinavelosom&hide=css,html&theme=dark">
 </p>
+
+<div align="center">
+<h2>Let's code!!!</h2>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" />
+</div>
