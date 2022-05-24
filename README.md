@@ -35,7 +35,6 @@
   <img align="right"src="https://49.media.tumblr.com/fb9f6d357802fba67a79e5fe85dca5a4/tumblr_o2gfdoO6Ig1v6g28go1_500.gif" width="200px"/>
 </div>
 
-##
   
 <!--  <div align="center">
     ⭐ 👩‍💻 🚀 💼 💻 ⭐
