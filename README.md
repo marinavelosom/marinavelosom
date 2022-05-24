@@ -2,13 +2,17 @@
 
 <div>
  <h4>Olá, família! 👋💖✨🦋 </h4>
- <img src="https://user-images.githubusercontent.com/55593325/169933156-f4b2cd36-2dce-461a-a28f-49943637def8.png" width="200px" height="200px">
+<!--  <img src="https://user-images.githubusercontent.com/55593325/169933156-f4b2cd36-2dce-461a-a28f-49943637def8.png" width="200px" height="200px"> -->
 </div>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=marinavelosom&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=marinavelosom&hide=css,html&theme=tokyonight">
-</p>
+<p align="center">
+  <a href="https://www.instagram.com/error418.code/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mariiinamelo/"/></a>
+  
+  <a href="https://www.linkedin.com/in/kakacordovil/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marina-melo-9728331a7/" /></a>
+</p>  
+
 
 <div align="center">
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" />
