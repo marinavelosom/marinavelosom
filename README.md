@@ -21,11 +21,11 @@
 
 ##
 
-<div align="end">
+<div align="center">
   <img src="https://49.media.tumblr.com/fb9f6d357802fba67a79e5fe85dca5a4/tumblr_o2gfdoO6Ig1v6g28go1_500.gif" width="200px"/>
 </div>
 
-<div align="end">
+<div align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
