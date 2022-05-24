@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.instagram.com/error418.code/" alt="Instagram">
+  <a href="https://www.instagram.com/mariiinamelo/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mariiinamelo/"/></a>
   
   <a href="https://www.linkedin.com/in/marina-melo-9728331a7/" alt="Linkedin">
