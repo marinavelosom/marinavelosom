@@ -19,5 +19,5 @@
 
 
 <div align="end">
-  <img src="https://user-images.githubusercontent.com/55593325/169936312-1152f8db-f09d-48eb-b244-c4a3ac4bcccc.gif" width="200px" border-radius="50%"/>
+  <img src="https://49.media.tumblr.com/fb9f6d357802fba67a79e5fe85dca5a4/tumblr_o2gfdoO6Ig1v6g28go1_500.gif" width="200px" border-radius="50%"/>
 </div>
