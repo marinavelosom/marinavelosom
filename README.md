@@ -19,5 +19,5 @@
 
 
 <div align="end">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200px" />
+  <img src="https://user-images.githubusercontent.com/55593325/169936312-1152f8db-f09d-48eb-b244-c4a3ac4bcccc.png" width="200px" border-radius="50%"/>
 </div>
