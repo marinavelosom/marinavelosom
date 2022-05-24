@@ -4,4 +4,7 @@
 - 🌱 Aprendendo coisas novas e conhecendo pessoas
 - 😄 Pronomes: ela/dela
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<div>
+  <a>
+ <img height="180em" src="https://github-reademe-stats.vercel.app/api?username=marinavelosom&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
