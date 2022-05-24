@@ -1,9 +1,9 @@
                              
-
+<!-- 
 <div>
  <h4>Olá, família! 👋💖✨🦋 </h4>
-<!--  <img src="https://user-images.githubusercontent.com/55593325/169933156-f4b2cd36-2dce-461a-a28f-49943637def8.png" width="200px" height="200px"> -->
-</div>
+ <img src="https://user-images.githubusercontent.com/55593325/169933156-f4b2cd36-2dce-461a-a28f-49943637def8.png" width="200px" height="200px">
+</div> -->
 
 <p align="center">
   <a href="https://www.instagram.com/mariiinamelo/" alt="Instagram">
@@ -15,5 +15,5 @@
 
 
 <div align="center">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" />
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200px" />
 </div>
