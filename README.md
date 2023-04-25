@@ -1,7 +1,7 @@
                              
 
 <div align="center">
- <h4>Olá, família! 👋💖✨🦋 Bem-vindes ao meu Github!</h4>
+ <h4>Olá, família! 👋 Bem-vindes ao meu Github!</h4>
 <!--  <img src="https://user-images.githubusercontent.com/55593325/169933156-f4b2cd36-2dce-461a-a28f-49943637def8.png" width="200px" height="200px"> -->
 </div>
 
@@ -15,9 +15,12 @@
   </a>
 </div>  
 
-  
-##
-  
+ <div align="center">
+    🧷 ☕ 💖 ✨ 🦋 💻
+</div>
+
+<br>
+
 <div align="center">
   <img src="https://49.media.tumblr.com/fb9f6d357802fba67a79e5fe85dca5a4/tumblr_o2gfdoO6Ig1v6g28go1_500.gif" width="200px"/>
 </div>
