@@ -1,9 +1,9 @@
                              
 
-<div align="center">
+<!-- <div align="center">
  <h4>Olá, família! 👋 Bem-vindes ao meu Github!</h4>
 <!--  <img src="https://user-images.githubusercontent.com/55593325/169933156-f4b2cd36-2dce-461a-a28f-49943637def8.png" width="200px" height="200px"> -->
-</div>
+<!-- </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marina-melo-9728331a7/" alt="Linkedin" target="_blank">
@@ -13,7 +13,7 @@
   <a href="https://www.instagram.com/mariiinamelo/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mariiinamelo/"/>
   </a>
-</div>  
+</div>  -->
 
  <div align="center">
     🧷 ☕ 💖 ✨ 🦋 💻
