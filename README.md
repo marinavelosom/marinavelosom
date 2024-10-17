@@ -15,11 +15,7 @@
   </a>
 </div>  -->
 
- <div align="center">
-    🧷 ☕ 💖 ✨ 🦋 💻
-</div>
 
-<br>
 
 <!-- <div align="center">
   <img src="https://49.media.tumblr.com/fb9f6d357802fba67a79e5fe85dca5a4/tumblr_o2gfdoO6Ig1v6g28go1_500.gif" width="200px"/>
@@ -38,6 +34,45 @@
   <img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   
 </div> -->
+
+
+
+<h3 align="center">
+        <samp> Hey There 👋🏾💫💖 I am
+                <b><a target="_blank" href="https://github.com/marinavelosom">Marina Melo</a></b>
+        </samp>
+</h3>
+<!-- <p align="right">
+  <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</p>-->
+
+<p align="center">
+<a href="https://github.com/marinavelom">
+  <img width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinavelosom&hide_border=true&layout=compact&theme=github_dark"/>
+</a>
+</p>
+
+
+<p align="center">
+        <!-- Intro -->
+        <samp>
+                 I'm a computer engineering student and software developer from <b>Brasil</b> 
+                <br>
+                 Dedicated to building meaningful web applications that make a difference in people's lives.</b> 
+                <br>
+                <br>
+        </samp>
+</p>
+<!-- ### stats -->
+
+<!-- <p align="center">
+  <a href="https://github.com/marinavelosom">
+    <img  width="420px" src="https://github-readme-stats.vercel.app/api?username=marinavelosom&show_icons=true&theme=dracula&hide_border=true" />
+    <img  width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=marinavelosom&theme=dracula&hide_border=true&mode=weekly" />
+  </a>
+</p>  -->
+
+
 
 
 
